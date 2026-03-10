@@ -1,8 +1,13 @@
 - **Blox Fruits 공유 허브 모든 로블록스 스크립트가 있습니다** 
 
 # 
-- Blox Fruits -> 9개
+- Blox Fruits -> 10개
 #
+# - Blox Fruits
+Dev-GravityHub
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-GravityHub/BloxFruit/refs/heads/main/Main.lua"))()
+```
 # - Blox Fruits
 BANANA CAT HUB
 ```lua
