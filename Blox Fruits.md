@@ -1,8 +1,7 @@
-- **𝑠𝑐𝑟𝑖𝑝𝑡 𝑖𝑛𝑓𝑜 공유 허브 모든 로블록스 스크립트가 있습니다** 
+- **Blox Fruits 공유 허브 모든 로블록스 스크립트가 있습니다** 
 
 # 
 - Blox Fruits -> 9개
-- Adopt me -> 1개
 - Bee Swarm Simulator -> 6개
 #
 # - Blox Fruits
@@ -50,10 +49,8 @@ QuantumOnyx
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/refs/heads/main/QuantumOnyx.lua"))()
 ```
-# - Adopt me
-TBIgui
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kurixxx/ADOPTME/refs/heads/main/AUTOFARM"))()
+
+
 ```
 # - Bee Swarm Simulator
 Macro V4
