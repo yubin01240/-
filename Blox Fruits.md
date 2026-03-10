@@ -2,7 +2,6 @@
 
 # 
 - Blox Fruits -> 9개
-- Bee Swarm Simulator -> 6개
 #
 # - Blox Fruits
 BANANA CAT HUB
